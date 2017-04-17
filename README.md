@@ -1,7 +1,10 @@
 # 2017 Spring UMKC &amp; H&amp;R Block Hackathon
 
 Team: SVM
-Members: 
+
+Project Name: FitorFat
+
+Members:
 Matthew Velazquez(42)
 Vijaya Yeruva(47)
 Saria Goudarzvand(48)
@@ -19,6 +22,6 @@ Write a moble or web-based app for the food game.
 
 Developed a mobile gaming application which will capture the image and send it as input to the deep learning model. Deep learning model will process the image and displays the output with name of the image, calories related to the image, and rating of the image.
 
-Source Code: 
+Source Code: https://github.com/VIJAYAYERUVA/2017_Spring_UMKC_Hackathon/Sourcecode
 
-Presentation:
+Presentation: https://github.com/VIJAYAYERUVA/2017_Spring_UMKC_Hackathon/Documentation
