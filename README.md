@@ -1,5 +1,10 @@
 # 2017 Spring UMKC &amp; H&amp;R Block Hackathon
 
+Team: SVM
+Members: 
+Matthew Velazquez(42)
+Vijaya Yeruva(47)
+Saria Goudarzvand(48)
 
 ### Use Case U13: Food Game: Junk or Healthy?
 
@@ -16,4 +21,4 @@ Developed a mobile gaming application which will capture the image and send it a
 
 Source Code: 
 
-Presentation: 
+Presentation:
