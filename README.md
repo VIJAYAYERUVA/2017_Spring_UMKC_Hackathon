@@ -6,7 +6,9 @@ Project Name: FitorFat
 
 Members:
 Matthew Velazquez(42)
+
 Vijaya Yeruva(47)
+
 Saria Goudarzvand(48)
 
 ### Use Case U13: Food Game: Junk or Healthy?
