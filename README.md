@@ -24,6 +24,6 @@ Write a moble or web-based app for the food game.
 
 Developed a mobile gaming application which will capture the image and send it as input to the deep learning model. Deep learning model will process the image and displays the output with name of the image, calories related to the image, and rating of the image.
 
-Source Code: https://github.com/VIJAYAYERUVA/2017_Spring_UMKC_Hackathon/Sourcecode
+Source Code: https://github.com/VIJAYAYERUVA/2017_Spring_UMKC_Hackathon/tree/master/Sourcecode
 
-Presentation: https://github.com/VIJAYAYERUVA/2017_Spring_UMKC_Hackathon/Documentation
+Presentation: https://github.com/VIJAYAYERUVA/2017_Spring_UMKC_Hackathon/tree/master/Documentation
